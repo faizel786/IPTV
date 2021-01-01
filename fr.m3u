@@ -7,15 +7,15 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f988934a507de00075
 https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV1.uk.png" group-title="UK",ITV
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV1.uk.png" group-title="UK",ITV1
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV 2
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV2
 http://51.52.156.22:8888/http/005
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV3.uk.png" group-title="UK",ITV 3
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV3.uk.png" group-title="UK",ITV3
 http://51.52.156.22:8888/http/006
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK",ITV 4
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK",ITV4
 http://51.52.156.22:8888/http/007
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITVBe.uk.png" group-title="UK",ITV BE
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITVBe.uk.png" group-title="UK",ITVBE
 http://160.119.77.50/iptv/uk-itvbe.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",CITV
 http://160.119.77.50/iptv/uk-citv.stream/playlist.m3u8
