@@ -5,9 +5,7 @@ http://136.243.177.164/HBO/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f988934a507de00075d9ae7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=127&deviceId=5f988934a507de00075d9ae7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra (CA)" tvg-logo="https://i.imgur.com/pVU9nrc.png" group-title="CANADA",Bein Sport Xtra (CA)
 https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV1" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV1
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV1.uk.png" group-title="UK",ITV1
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV1.uk.png" group-title="UK",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV2
 http://51.52.156.22:8888/http/005
