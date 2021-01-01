@@ -17,3 +17,9 @@ http://51.52.156.22:8888/http/007
 http://160.119.77.50/iptv/uk-itvbe.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",CITV
 http://160.119.77.50/iptv/uk-citv.stream/playlist.m3u8
+#EXTINF:0 Easyview BBC One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+https://uk.easyview.eu/hls/bbc-london.m3u8
+#EXTINF:0,Fox Soccer Plus
+#EXTVLCOPT:http-referrer=https://sportsbay.org/embed/56872/1/fox-soccer-plus-live.html
+https://e7.cdn4.us/ingest666/fsplus.m3u8
