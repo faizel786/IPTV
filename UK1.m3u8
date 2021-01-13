@@ -349,37 +349,37 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15834?checkedby:hlscat.com
 http://a1.gokakka.club:8880/testzyx030/123456789/2907?checkedby:hlscat.com
 #EXTINF:-1,IR TG4
 http://a1.gokakka.club:8880/testzyx030/123456789/28798?checkedby:hlscat.com
-#EXTINF:-1,ITV
+#EXTINF:-1 group-title="ITV",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8?checkedby:hlscat.com
-#EXTINF:-1,ITV 1
+#EXTINF:-1 group-title="ITV",ITV 1
 http://a1.gokakka.club:8880/testzyx030/123456789/2906?checkedby:hlscat.com
-#EXTINF:-1,ITV 1 HD UK
+#EXTINF:-1 group-title="ITV",ITV 1 HD UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15734?checkedby:hlscat.com
-#EXTINF:-1,ITV 1 UK
+#EXTINF:-1 group-title="ITV",ITV 1 UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6592?checkedby:hlscat.com
-#EXTINF:-1,ITV 2 +1 UK
+#EXTINF:-1 group-title="ITV",ITV 2 +1 UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15730?checkedby:hlscat.com
-#EXTINF:-1,ITV 3
+#EXTINF:-1 group-title="ITV",ITV 3
 http://a1.gokakka.club:8880/testzyx030/123456789/2904?checkedby:hlscat.com
-#EXTINF:-1,ITV 3 UK
+#EXTINF:-1 group-title="ITV",ITV 3 UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6590?checkedby:hlscat.com
-#EXTINF:-1,ITV 4
+#EXTINF:-1 group-title="ITV",ITV 4
 http://a1.gokakka.club:8880/testzyx030/123456789/2903?checkedby:hlscat.com
-#EXTINF:-1,ITV 4 UK
+#EXTINF:-1 group-title="ITV",ITV 4 UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6589?checkedby:hlscat.com
-#EXTINF:-1,ITV Be UK
+#EXTINF:-1 group-title="ITV",ITV Be UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6588?checkedby:hlscat.com
-#EXTINF:-1,ITV Granada
+#EXTINF:-1 group-title="ITV",ITV Granada
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/383594.ts?checkedby:hlscat.com
-#EXTINF:-1,ITV1
+#EXTINF:-1 group-title="ITV",ITV1
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1259?checkedby:hlscat.com
-#EXTINF:-1,ITV2
+#EXTINF:-1 group-title="ITV",ITV2
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1258?checkedby:hlscat.com
-#EXTINF:-1,ITV3
+#EXTINF:-1 group-title="ITV",ITV3
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1257?checkedby:hlscat.com
-#EXTINF:-1,ITVBE
+#EXTINF:-1 group-title="ITV",ITVBE
 http://a1.gokakka.club:8880/testzyx030/123456789/28801?checkedby:hlscat.com
-#EXTINF:-1,ITVBe
+#EXTINF:-1 group-title="ITV",ITVBe
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1256?checkedby:hlscat.com
 #EXTINF:-1,KERRANG
 http://a1.gokakka.club:8880/testzyx030/123456789/28928?checkedby:hlscat.com
@@ -409,43 +409,43 @@ http://a1.gokakka.club:8880/testzyx030/123456789/2910?checkedby:hlscat.com
 http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8?checkedby:hlscat.com
 #EXTINF:-1,MTA 3
 http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8?checkedby:hlscat.com
-#EXTINF:-1,MTV
+#EXTINF:-1 group-title="MTV",MTV
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/221667.ts?checkedby:hlscat.com
-#EXTINF:-1,MTV 80s UK
+#EXTINF:-1 group-title="MTV",MTV 80s UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9509?checkedby:hlscat.com
-#EXTINF:-1,MTV 90s UK
+#EXTINF:-1 group-title="MTV",MTV 90s UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15845?checkedby:hlscat.com
-#EXTINF:-1,MTV BASE
+#EXTINF:-1 group-title="MTV",MTV BASE
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1255?checkedby:hlscat.com
-#EXTINF:-1,MTV Base
+#EXTINF:-1 group-title="MTV",MTV Base
 http://a1.gokakka.club:8880/testzyx030/123456789/2897?checkedby:hlscat.com
-#EXTINF:-1,MTV Classic
+#EXTINF:-1 group-title="MTV",MTV Classic
 http://a1.gokakka.club:8880/testzyx030/123456789/28784?checkedby:hlscat.com
-#EXTINF:-1,MTV Classic
+#EXTINF:-1 group-title="MTV",MTV Classic
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1254?checkedby:hlscat.com
-#EXTINF:-1,MTV DANCE
+#EXTINF:-1 group-title="MTV",MTV DANCE
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1253?checkedby:hlscat.com
-#EXTINF:-1,MTV Dance HD
+#EXTINF:-1 group-title="MTV",MTV Dance HD
 http://a1.gokakka.club:8880/testzyx030/123456789/28788?checkedby:hlscat.com
-#EXTINF:-1,MTV HD
+#EXTINF:-1 group-title="MTV",MTV HD
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1252?checkedby:hlscat.com
-#EXTINF:-1,MTV HITS
+#EXTINF:-1 group-title="MTV",MTV HITS
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1251?checkedby:hlscat.com
-#EXTINF:-1,MTV Hits
+#EXTINF:-1 group-title="MTV",MTV Hits
 http://a1.gokakka.club:8880/testzyx030/123456789/2896?checkedby:hlscat.com
-#EXTINF:-1,MTV LIVE HD
+#EXTINF:-1 group-title="MTV",MTV LIVE HD
 http://a1.gokakka.club:8880/testzyx030/123456789/28920?checkedby:hlscat.com
-#EXTINF:-1,MTV MUSIC
+#EXTINF:-1 group-title="MTV",MTV MUSIC
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1250?checkedby:hlscat.com
-#EXTINF:-1,MTV OMG
+#EXTINF:-1 group-title="MTV",MTV OMG
 http://a1.gokakka.club:8880/testzyx030/123456789/28786?checkedby:hlscat.com
-#EXTINF:-1,MTV ROCKS
+#EXTINF:-1 group-title="MTV",MTV ROCKS
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1249?checkedby:hlscat.com
-#EXTINF:-1,MTV Rocks
+#EXTINF:-1 group-title="MTV",MTV Rocks
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/309837.ts?checkedby:hlscat.com
-#EXTINF:-1,MTV Rocks HD
+#EXTINF:-1 group-title="MTV",MTV Rocks HD
 http://a1.gokakka.club:8880/testzyx030/123456789/28785?checkedby:hlscat.com
-#EXTINF:-1,MTV UK
+#EXTINF:-1 group-title="MTV",MTV UK
 http://a1.gokakka.club:8880/testzyx030/123456789/2912?checkedby:hlscat.com
 #EXTINF:-1,MUTV
 http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1248?checkedby:hlscat.com
@@ -573,43 +573,43 @@ http://a1.gokakka.club:8880/testzyx030/123456789/28734?checkedby:hlscat.com
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/309299.ts?checkedby:hlscat.com
 #EXTINF:-1,Sheffield TV
 http://tv.sheffieldlive.org/hls/main.m3u8?checkedby:hlscat.com
-#EXTINF:-1,Sky 2 HD
+#EXTINF:-1 group-title="Sky",Sky 2 HD
 http://a1.gokakka.club:8880/testzyx030/123456789/28764?checkedby:hlscat.com
-#EXTINF:-1,Sky Action
+#EXTINF:-1 group-title="Sky",Sky Action
 http://a1.gokakka.club:8880/testzyx030/123456789/2891?checkedby:hlscat.com
-#EXTINF:-1,Sky Atlantic FHD
+#EXTINF:-1 group-title="Sky",Sky Atlantic FHD
 http://a1.gokakka.club:8880/testzyx030/123456789/28763?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Action HD UK
+#EXTINF:-1 group-title="Sky",Sky Cinema Action HD UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15720?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Action UK
+#EXTINF:-1 group-title="Sky",Sky Cinema Action UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6558?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Cinemaeats FHD
+#EXTINF:-1 group-title="Sky",Sky Cinema Cinemaeats FHD
 http://a1.gokakka.club:8880/testzyx030/123456789/28746?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Crime  and  Thriller FHD
+#EXTINF:-1 group-title="Sky",Sky Cinema Crime  and  Thriller FHD
 http://a1.gokakka.club:8880/testzyx030/123456789/28751?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Disney FHD
+#EXTINF:-1 group-title="Sky",Sky Cinema Disney FHD
 http://a1.gokakka.club:8880/testzyx030/123456789/28912?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Disney HD UK
+#EXTINF:-1 group-title="Sky",Sky Cinema Disney HD UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15717?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Drama  and  Romance FHD
+#EXTINF:-1 group-title="Sky",Sky Cinema Drama  and  Romance FHD
 http://a1.gokakka.club:8880/testzyx030/123456789/28749?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Drama  and  Romance HD
+#EXTINF:-1 group-title="Sky",Sky Cinema Drama  and  Romance HD
 http://a1.gokakka.club:8880/testzyx030/123456789/28913?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Greats
+#EXTINF:-1 group-title="Sky",Sky Cinema Greats
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/378459.ts?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Hits
+#EXTINF:-1 group-title="Sky",Sky Cinema Hits
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/378463.ts?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Premiere FHD
+#EXTINF:-1 group-title="Sky",Sky Cinema Premiere FHD
 http://a1.gokakka.club:8880/testzyx030/123456789/28956?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Premiere UK
+#EXTINF:-1 group-title="Sky",Sky Cinema Premiere UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6553?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Sci-Fi  and  Horror HD UK
+#EXTINF:-1 group-title="Sky",Sky Cinema Sci-Fi  and  Horror HD UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15712?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Sci-Fi  and  Horror UK
+#EXTINF:-1 group-title="Sky",Sky Cinema Sci-Fi  and  Horror UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6552?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Sci-Fi and Horror FHD
+#EXTINF:-1 group-title="Sky",Sky Cinema Sci-Fi and Horror FHD
 http://a1.gokakka.club:8880/testzyx030/123456789/28745?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema SciFi Horror
+#EXTINF:-1 group-title="Sky",Sky Cinema SciFi Horror
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/378468.ts?checkedby:hlscat.com
 #EXTINF:-1,VICELAND
 http://a1.gokakka.club:8880/testzyx030/123456789/28921?checkedby:hlscat.com
@@ -631,71 +631,71 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15859?checkedby:hlscat.com
 http://a1.gokakka.club:8880/testzyx030/123456789/28917?checkedby:hlscat.com
 #EXTINF:-1,beIN Sports 3
 http://a1.gokakka.club:8880/testzyx030/123456789/28916?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Select
+#EXTINF:-1 group-title="Sky",Sky Cinema Select
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/383106.ts?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Select FHD
+#EXTINF:-1 group-title="Sky",Sky Cinema Select FHD
 http://a1.gokakka.club:8880/testzyx030/123456789/28744?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Select FHD UK
+#EXTINF:-1 group-title="Sky",Sky Cinema Select FHD UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15711?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Select HD
+#EXTINF:-1 group-title="Sky",Sky Cinema Select HD
 http://a1.gokakka.club:8880/testzyx030/123456789/28911?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Select HD UK
+#EXTINF:-1 group-title="Sky",Sky Cinema Select HD UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6551?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Showcase HD
+#EXTINF:-1 group-title="Sky",Sky Cinema Showcase HD
 http://a1.gokakka.club:8880/testzyx030/123456789/28743?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Superhero HD
+#EXTINF:-1 group-title="Sky",Sky Cinema Superhero HD
 http://a1.gokakka.club:8880/testzyx030/123456789/28885?checkedby:hlscat.com
-#EXTINF:-1,Sky Cinema Thriller FHD
+#EXTINF:-1 group-title="Sky",Sky Cinema Thriller FHD
 http://a1.gokakka.club:8880/testzyx030/123456789/28914?checkedby:hlscat.com
-#EXTINF:-1,Sky Disney
+#EXTINF:-1 group-title="Sky",Sky Disney
 http://a1.gokakka.club:8880/testzyx030/123456789/2889?checkedby:hlscat.com
-#EXTINF:-1,Sky Drama
+#EXTINF:-1 group-title="Sky",Sky Drama
 http://a1.gokakka.club:8880/testzyx030/123456789/2920?checkedby:hlscat.com
-#EXTINF:-1,Sky Movies Greats
+#EXTINF:-1 group-title="Sky",Sky Movies Greats
 http://a1.gokakka.club:8880/testzyx030/123456789/28893?checkedby:hlscat.com
-#EXTINF:-1,Sky Movies Modern
+#EXTINF:-1 group-title="Sky",Sky Movies Modern
 http://a1.gokakka.club:8880/testzyx030/123456789/28966?checkedby:hlscat.com
-#EXTINF:-1,Sky One
+#EXTINF:-1 group-title="Sky",Sky One
 http://a1.gokakka.club:8880/testzyx030/123456789/2867?checkedby:hlscat.com
-#EXTINF:-1,Sky ScFi Horror
+#EXTINF:-1 group-title="Sky",Sky ScFi Horror
 http://a1.gokakka.club:8880/testzyx030/123456789/2884?checkedby:hlscat.com
-#EXTINF:-1,Sky Showcase
+#EXTINF:-1 group-title="Sky",Sky Showcase
 http://a1.gokakka.club:8880/testzyx030/123456789/2883?checkedby:hlscat.com
-#EXTINF:-1,Sky Sport 1 SD
+#EXTINF:-1 group-title="Sky",Sky Sport 1 SD
 http://a1.gokakka.club:8880/testzyx030/123456789/28904?checkedby:hlscat.com
-#EXTINF:-1,Sky Sports ACTION FHD
+#EXTINF:-1 group-title="Sky",Sky Sports ACTION FHD
 http://a1.gokakka.club:8880/testzyx030/123456789/28740?checkedby:hlscat.com
-#EXTINF:-1,Sky Sports Action HD
+#EXTINF:-1 group-title="Sky",Sky Sports Action HD
 http://a1.gokakka.club:8880/testzyx030/123456789/2880?checkedby:hlscat.com
-#EXTINF:-1,Sky Sports Arena HD
+#EXTINF:-1 group-title="Sky",Sky Sports Arena HD
 http://a1.gokakka.club:8880/testzyx030/123456789/2902?checkedby:hlscat.com
-#EXTINF:-1,Sky Sports Arena HD UK
+#EXTINF:-1 group-title="Sky",Sky Sports Arena HD UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7926?checkedby:hlscat.com
-#EXTINF:-1,Sky Sports Cricket HD
+#EXTINF:-1 group-title="Sky",Sky Sports Cricket HD
 http://a1.gokakka.club:8880/testzyx030/123456789/2879?checkedby:hlscat.com
-#EXTINF:-1,Sky Sports F1
+#EXTINF:-1 group-title="Sky",Sky Sports F1
 http://a1.gokakka.club:8880/testzyx030/123456789/2876?checkedby:hlscat.com
-#EXTINF:-1,Sky Sports Football HD
+#EXTINF:-1 group-title="Sky",Sky Sports Football HD
 http://a1.gokakka.club:8880/testzyx030/123456789/2870?checkedby:hlscat.com
-#EXTINF:-1,Sky Sports Golf
+#EXTINF:-1 group-title="Sky",Sky Sports Golf
 http://a1.gokakka.club:8880/testzyx030/123456789/2878?checkedby:hlscat.com
-#EXTINF:-1,Sky Sports MainEvent HD
+#EXTINF:-1 group-title="Sky",Sky Sports MainEvent HD
 http://a1.gokakka.club:8880/testzyx030/123456789/2881?checkedby:hlscat.com
-#EXTINF:-1,Sky Sports Mix
+#EXTINF:-1 group-title="Sky",Sky Sports Mix
 http://a1.gokakka.club:8880/testzyx030/123456789/2882?checkedby:hlscat.com
-#EXTINF:-1,Sky Sports News
+#EXTINF:-1 group-title="Sky",Sky Sports News
 http://a1.gokakka.club:8880/testzyx030/123456789/2875?checkedby:hlscat.com
-#EXTINF:-1,Sky Sports Premier League SD
+#EXTINF:-1 group-title="Sky",Sky Sports Premier League SD
 http://a1.gokakka.club:8880/testzyx030/123456789/28942?checkedby:hlscat.com
-#EXTINF:-1,Sky Sports PremierLeague HD
+#EXTINF:-1 group-title="Sky",Sky Sports PremierLeague HD
 http://a1.gokakka.club:8880/testzyx030/123456789/2877?checkedby:hlscat.com
-#EXTINF:-1,Sky Sports Racing FHD
+#EXTINF:-1 group-title="Sky",Sky Sports Racing FHD
 http://a1.gokakka.club:8880/testzyx030/123456789/28741?checkedby:hlscat.com
-#EXTINF:-1,Sky Thriller
+#EXTINF:-1 group-title="Sky",Sky Thriller
 http://a1.gokakka.club:8880/testzyx030/123456789/2874?checkedby:hlscat.com
-#EXTINF:-1,Sky Witness HD
+#EXTINF:-1 group-title="Sky",Sky Witness HD
 http://a1.gokakka.club:8880/testzyx030/123456789/28874?checkedby:hlscat.com
-#EXTINF:-1,Sky Witness UK
+#EXTINF:-1 group-title="Sky",Sky Witness UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7912?checkedby:hlscat.com
 #EXTINF:-1,Sony Channel
 http://a1.gokakka.club:8880/testzyx030/123456789/28922?checkedby:hlscat.com
